@@ -2,7 +2,7 @@
 
 **Seven Hundreds**:
 AI2 Extension that can times a Hundred not a Thousand
-Made with 💖 by <a href="https://community.kodular.io/u/brandon_ang/summary>Brandon Ang</a>
+Made with 💖 by <a href="https://community.kodular.io/u/brandon_ang/summary">Brandon Ang</a>
 
 **Seven Thousands**:
 AI2 Extension that can times a Thousand not a Hundred.
